@@ -1,0 +1,5 @@
+{
+  "name": "عنق روحك (Embrace Your Soul)",
+  "description": "An application that allows users to upload an old photo of themselves as a child and a recent one as an adult. It then generates a new image where the adult is hugging the child, creating a sentimental piece of art using the Gemini API.",
+  "requestFramePermissions": []
+}
